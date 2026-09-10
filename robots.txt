@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zenarunners.github.io/ZRwebsite/sitemap.xml
