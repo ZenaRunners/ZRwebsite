@@ -6,8 +6,22 @@
     "feed_url": "https://zenarunners.github.io/ZRwebsite/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Paolo Fiore"
+        "name": "ZRAdmin"
     },
     "items": [
+        {
+            "id": "https://zenarunners.github.io/ZRwebsite/10-anni-zena-runners.html",
+            "url": "https://zenarunners.github.io/ZRwebsite/10-anni-zena-runners.html",
+            "title": "10 Anni Zena Runners",
+            "summary": "Vi invitiamo alla nostra festa privata e GRATUITA (riservata ai nostri soci) per festeggiare i 10 anni dalla fondazione della&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://zenarunners.github.io/ZRwebsite/media/posts/2/ZR10yo.jpg\" height=\"800\" width=\"800\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://zenarunners.github.io/ZRwebsite/media/posts/2/responsive/ZR10yo-xs.jpg 300w ,https://zenarunners.github.io/ZRwebsite/media/posts/2/responsive/ZR10yo-sm.jpg 480w ,https://zenarunners.github.io/ZRwebsite/media/posts/2/responsive/ZR10yo-md.jpg 768w\">\n      \n    </figure>\n\n  <p>\n    Vi invitiamo alla nostra festa privata e GRATUITA (riservata ai nostri soci) per festeggiare i 10 anni dalla fondazione della Società.\n<br>\n<br>📅 Venerdì 18 settembre, ore 20:00\n<br>📍 Via Albertazzi 3R, Sampierdarena, 16149 Genova\n<br>\n<br>🎤 Serata con intrattenimento del comico ligure Enrique Balbontin e altri ospiti a sorpresa\n<br>🏆 A seguire, premiazioni\n<br>🍰 Per finire, torta e spumante tutti insieme\n<br>\n<br>👉 Iscriviti qui: 10 Anni ZR – Come funziona:\n<br>\n<br>    Priorità assoluta ai soci: chi si iscrive ha il posto garantito, fino a un massimo di 150 partecipanti totali\n<br>    È possibile portare fino a 2 accompagnatori a testa, ma solo se restano posti disponibili dopo aver contato tutti i soci iscritti\n<br>    L’ordine di iscrizione conta: chi si iscrive prima ha la precedenza, sia per il proprio posto che per quello degli accompagnatori\n<br>\n<br>⏰ Le iscrizioni chiudono il 10 settembre: ci serve quel margine per organizzare al meglio il rinfresco, quindi confermate la vostra presenza entro quella data.\n  </p>",
+            "author": {
+                "name": "ZRAdmin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-17T15:13:08+02:00",
+            "date_modified": "2026-09-17T15:13:08+02:00"
+        }
     ]
 }
